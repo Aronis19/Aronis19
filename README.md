@@ -8,7 +8,9 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test the Newest Trending 
 
 # **Projects**
 **🍀 Reoxx.cz**
-• Making Custom models in https://web.blockbench.net/
+• Making Custom models on https://web.blockbench.net/.
+• Managing Teams & Lead of Designers
+• More info soon!
 
   <img alt="Static Badge" src="https://img.shields.io/badge/MY-DISCORD%3A%20doctoraron-blue%3Flogo%3DDiscord?logo=Discord&color=5959ff">
 
