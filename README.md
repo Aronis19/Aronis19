@@ -6,5 +6,5 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test the Newest Trending 
 #### 🐝 If you want to contact me, contact me on discord.
 ##### *At this moment, i am focused on 3D Modeling.*
 
-<img alt="Static Badge" src="https://img.shields.io/badge/MY-DISCORD-blue%3Flogo%3DDiscord?logo=Discord&color=5959ff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MY-DISCORD%3A%20doctoraron-blue%3Flogo%3DDiscord?logo=Discord&color=5959ff">
 
