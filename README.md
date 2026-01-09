@@ -7,12 +7,12 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
 ##### - *At this moment, i am focused on 3D Modeling.*
 
 # **Projects**
-**🍀 Reoxx.cz**
+**🍀 | Reoxx.cz**
 - Making Custom models on https://web.blockbench.net/.
 - Managing Teams & Lead of Designers
 - More info soon!
 
-# **Experience**
+# **💡 | Experience**
 - `<2024 - Present>` Making Minecraft Servers & Discord Servers
 - `<2025 - Present>` Started making 3D Models in BlockBench & Head Lead of Reoxx.cz
 
