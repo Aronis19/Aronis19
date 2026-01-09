@@ -12,6 +12,8 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test the Newest Trending 
 - Managing Teams & Lead of Designers
 - More info soon!
 
+`ss`
+
 <img alt="Static Badge" src="https://img.shields.io/badge/MY-DISCORD%3A%20doctoraron-blue%3Flogo%3DDiscord?logo=Discord&color=5959ff"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue%3Flogo%3DDiscord?logo=GitHub&color=5c5c5c"> <img alt="Static Badge" src="https://img.shields.io/badge/BlockBench-0068a1?logo=Blockbench">
 
 
