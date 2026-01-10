@@ -18,3 +18,10 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
 - `<2025 - Present>` Started making 3D Models in BlockBench & Head Lead of Reoxx.cz
 
 <img alt="Static Badge" src="https://img.shields.io/badge/MY-DISCORD%3A%20doctoraron-blue%3Flogo%3DDiscord?logo=Discord&color=5959ff"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue%3Flogo%3DDiscord?logo=GitHub&color=5c5c5c"> <img alt="Static Badge" src="https://img.shields.io/badge/BlockBench-0068a1?logo=Blockbench">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aronis19/Aronis19/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aronis19/Aronis19/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aronis19/Aronis19/main/dist/github-contribution-grid-snake.svg" />
+</picture>
+
