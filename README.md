@@ -24,4 +24,5 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aronis19/Aronis19/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aronis19/Aronis19/main/dist/github-contribution-grid-snake.svg" />
 </picture>
+>
 
