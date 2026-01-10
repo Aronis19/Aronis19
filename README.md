@@ -19,7 +19,11 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/MY-DISCORD%3A%20doctoraron-blue%3Flogo%3DDiscord?logo=Discord&color=5959ff"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue%3Flogo%3DDiscord?logo=GitHub&color=5c5c5c"> <img alt="Static Badge" src="https://img.shields.io/badge/BlockBench-0068a1?logo=Blockbench">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aronis19&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
