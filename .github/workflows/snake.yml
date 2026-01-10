@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"   # generuje každý den
-  workflow_dispatch:         # umožňuje ruční spuštění
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,9 +20,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # upload artefaktů (nová verze)
-      - name: Upload snake artifacts
-        uses: actions/upload-artifact@v4
+      # pushnutí změn do main
+      - name: Commit and Push Snake
+        uses: EndBug/add-and-commit@v9
         with:
-          name: snake-files
-          path: dist
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Update GitHub Snake"
+          add: "dist/*"
