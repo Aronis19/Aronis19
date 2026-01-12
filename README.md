@@ -4,7 +4,7 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
 
 # **📞 | Contact**
 #### - 🐝 If you want to contact me, contact me on discord.
-##### - *At this moment, i am focused on 3D Modeling.*
+##### - *At this moment, i am focused on 3D Modeling & Minecraft Servers.*
 
 # **👀 | Projects**
 **🍀 | Reoxx.cz**
