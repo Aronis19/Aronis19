@@ -7,8 +7,9 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
 ##### - *At this moment, i am not available.*
 
 # **👀 | Projects**
-**🐬 | [Zevyx](https://aronis19.github.io/zevyxeu/#domu)**
-- Administration panel and ticket system [Zevyx | Info Panel][https://aronis19.github.io/authzevyx/].
+**🐬 | [Zevyx.eu](https://aronis19.github.io/zevyxeu/#domu)**
+- Administration panel and ticket system [Zevyx | Info Panel](https://aronis19.github.io/authzevyx/).
+- Landing page [Zevyx.eu](https://aronis19.github.io/zevyxeu/#domu)
 
 # **💡 | Experience**
 - `[Oct 2021 - Feb 2022]` Founder of HeavenlySMP
