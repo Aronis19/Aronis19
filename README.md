@@ -8,7 +8,7 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
 
 # **👀 | Projects**
 **🐬 | [Zevyx.eu](https://aronis19.github.io/zevyxeu/#domu)**
-- Administration panel and ticket system [Zevyx | Info Panel](https://aronis19.github.io/authzevyx/).
+- Administration panel and ticket system [Zevyx | Info Panel](https://aronis19.github.io/authzevyx/). **(WIP)**
 - Landing page [Zevyx.eu](https://aronis19.github.io/zevyxeu/#domu)
 
 # **💡 | Experience**
