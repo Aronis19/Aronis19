@@ -19,6 +19,8 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
 - `[Nov 2025 - Dec 2025]` Trial Technician on Rajče.pro
 - `[Dec 2025 - Jar 2026]` Started making 3D Models in BlockBench & Head Lead of Reoxx.cz
 
+---
+
 <img alt="Static Badge" src="https://img.shields.io/badge/MY-DISCORD%3A%20172719214-blue%3Flogo%3DDiscord?logo=Discord&color=5959ff"> <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-blue%3Flogo%3DDiscord?logo=GitHub&color=5c5c5c"> <img alt="Static Badge" src="https://img.shields.io/badge/BlockBench-0068a1?logo=Blockbench">
 
 <picture>
