@@ -18,7 +18,7 @@ Hey, Im Ar0n1s, I like Customizing Plugins & others. I Test and make the Newest 
 - `[Sep 2025 - Nov 2025]` Lead of Nexorie.eu
 - `[Nov 2025 - Dec 2025]` Trial Technician on Rajče.pro
 - `[Dec 2025 - Jar 2026]` Started making 3D Models in BlockBench & Head Lead of Reoxx.cz
-- `[Apr 2026 - present]` Technic Manager of Dragonsmp.eu - 45+ CCU PEAK (Online Players). Got kicked out, for no reason at all, they scammed me. Not a single sorry from them, im probably ending my carrier.. 
+- `[Jun 2026 - Aug 2026]` Technic Manager of Dragonsmp.eu - 50+ CCU PEAK (Online Players). Got kicked out, for no reason at all, they scammed me. Not a single sorry from them, im probably ending my carrier.. 😐
 
 ---
 
